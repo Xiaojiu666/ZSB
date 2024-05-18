@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T10:50:56.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6EkPB0v81rhYCmJqJp0g" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T11:00:21.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7OxOOwsYmTSAuTFeI6Hy" version="23.0.2" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="2686" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2079" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,19 @@
           <mxGeometry x="50" y="640" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="37AEC4nWHkkaQ4RAomHy-686" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-1" y="920" width="20" height="350" as="geometry" />
+          <mxGeometry x="-71" y="910" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="37AEC4nWHkkaQ4RAomHy-689" value="经济规律" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37AEC4nWHkkaQ4RAomHy-690" value="&#xa;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;商品经济的基本规律是价值规律&lt;/span&gt;&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="880" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37AEC4nWHkkaQ4RAomHy-691" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;价值规律是商品生产和商品交换的基本经济规律&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="950" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37AEC4nWHkkaQ4RAomHy-692" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;即商品的价值量取决于社会必要劳动时间，商品按照价值相等的原则互相交换&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-51" y="1010" width="560" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
