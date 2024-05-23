@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T14:38:16.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.6" etag="WW3A0Nk6eBPft90wM6dY" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T14:49:16.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aoA6LV5gJ9Q9pBGzf0Ur" version="24.4.6" type="github">
   <diagram name="第 1 页" id="Y7Ydrx_XadtiYyFxUTAx">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="At8lbXzOp1W4mc0DRG15-1" value="&lt;span style=&quot;white-space: pre; font-size: 22px;&quot;&gt;&#x9;&lt;/span&gt;1、资本再生产的过程中，存在两种形式，生产资料形式和劳动形式&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2、根据这两部分资本在剩余价值生产中的体现，分为可变和不可变资本&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3、已生产资料形式存在的，不可变资本，劳动形式的是可变资本。&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1070" width="675" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="At8lbXzOp1W4mc0DRG15-2" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;; font-size: 22px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;不变资本和可变资本的划分根据及其各自的含义&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-1120" width="497.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="At8lbXzOp1W4mc0DRG15-4" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 22px;&quot;&gt;&#x9;&lt;/span&gt;1、&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;; font-size: 22px;&quot;&gt;经济全球化是指在生产不断发展、科技加速进步、社会分工和国际分工不断深化、生产社会化和国际化程度不断提高的情况下，世界各国、各地区的经济活动越来越超出某一国家和地区的范围而相互联系、相互依赖的过程。&lt;/span&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px; color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2、&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;消极影响的表现是：(1)发达国家与发展中国家的差距在扩大。(2)在经济增长中忽视社会进步，环境恶化与经济全球化有可能同时发生。(3)各国特别是相对落后国家原有的体制、政府领导能力、社会设施、政策体系、价值观念和文化都面临着全球化的冲击，国家内部和国际社会都出现不同程度的治理危机。(4)经济全球化使各国之间的经济联系越来越紧密，相互依赖越来越强，而有效的全球性协调机制却没有建立起来，这就使得爆发全球性经济危机的风险不断增大。&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 22px; color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-1070" width="675" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="At8lbXzOp1W4mc0DRG15-5" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Noto Sans SC&amp;quot;; font-size: 22px; text-align: left;&quot;&gt;什么是经济全球化？其消极影响有哪些？&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-1120" width="497.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
